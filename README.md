@@ -32,20 +32,19 @@ CLOUDINARY_API_KEY=...
 CLOUDINARY_API_SECRET=...
 ```
 
-### Build the app
+### Build the website
 
-``
 npm run build
-```
+
+### Start the website Frontend
+
+npm run dev
 
 
-npm start
+### Start the website Backend
 
-```
-### Start the app
-```
 node server.js
 
-#For starting Backend
+
 
 
