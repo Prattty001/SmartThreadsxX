@@ -1,4 +1,4 @@
-#  Build  a Real-Time Chat Functionality Smart Threads With Advanced Chat Bot Functionality!..
+#  Build  a Real-Time Chat Functionality Smart Threads With Advanced Chat Bot Functionality With Forgot & Reset Password Feature!!..
 
 Feature List:
 
@@ -18,6 +18,8 @@ Feature List:
 -   👀 Seen/Unseen Status for Messages
 -   🔊 Notification sounds
 -   🤖 Advanced Chat Bot
+-   📧 Added Forgot Password Fuctionality
+-   🔑Password Can be changed Uses Node Mailer Concept
 
 ### Setup .env file
 
