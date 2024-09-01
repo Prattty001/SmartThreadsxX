@@ -38,13 +38,14 @@ CLOUDINARY_API_SECRET=...
 npm run build
 ```
 
-### Start the app
 
-```
 npm start
-```
-#For starting Backend
-```
 
+```
+### Start the app
 ```
 node server.js
+
+#For starting Backend
+
+
