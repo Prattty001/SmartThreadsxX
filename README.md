@@ -45,6 +45,6 @@ npm start
 ```
 #For starting Backend
 ```
-node server.js
-```
 
+```
+node server.js
