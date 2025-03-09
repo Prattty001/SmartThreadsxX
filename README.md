@@ -43,7 +43,12 @@ npm run dev
 
 ### Start the website Backend
 
+
 node server.js
+
+### Glimpse of project 
+
+https://github.com/user-attachments/assets/b8743191-e29f-4a81-8045-62d82f71d3c8
 
 
 
