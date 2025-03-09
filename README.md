@@ -50,6 +50,9 @@ node server.js
 
 https://github.com/user-attachments/assets/b8743191-e29f-4a81-8045-62d82f71d3c8
 
+### UPDATING PASSWORD
+https://github.com/user-attachments/assets/0d49242d-fb62-4acc-8fc1-d7d7108a2a07
+
 
 
 
